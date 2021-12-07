@@ -1,0 +1,20 @@
+Web page content should be correct without any spelling or grammatical error
+All fonts should be same as per the requirements.
+All the text should be properly aligned.
+All the error messages should be correct without any spelling or grammatical errors and the error message should match with the field label.
+Tool tip text should be there for every field.
+All the fields should be properly aligned.
+Enough space should be provided between field labels, columns, rows, and error messages.
+All the buttons should be in a standard format and size.
+Home link should be there on every single page.
+Disabled fields should be grayed out.
+Check for broken links and images.
+Confirmation message should be displayed for any kind of update and delete operation.
+Check the site on different resolutions (640 x 480, 600×800 etc.?)
+Check the end user can run the system without frustration.
+Check the tab should work properly.
+Scroll bar should appear only if required.
+If there is an error message on submit, the information filled by the user should be there.
+Title should display on each web page
+All fields (Textbox, dropdown, radio button, etc) and buttons should be accessible by keyboard shortcuts and the user should be able to perform all operations by using keyboard.
+Check if the dropdown data is not truncated due to the field size. Also, check whether the data is hardcoded or managed via administrator.
