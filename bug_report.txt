@@ -1,0 +1,10 @@
+Bug ID: #Bug-ID
+Tester: Iryna Klimkova
+Date: 7.12.2021
+Title: Registration form - letters aren-t written in the form for email
+URL: http...
+Summary: only numbers can be written in the form for email
+Environment: Mac OS 12.0.1
+Brouser: Chrome ...
+Priority: High
+Severity: Critical
